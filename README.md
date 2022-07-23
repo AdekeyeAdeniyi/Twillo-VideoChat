@@ -13,7 +13,7 @@ Clone the repo:
 
 Navigate to the project folder:
 
-    cd video-tutorial
+    cd Twillo-VideoChat
 
 Install all packages and dependencies required for this project:
 
