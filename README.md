@@ -1,4 +1,4 @@
-<h1 align="center">Twillo Video CHat Program </h1>
+<h1>Twillo Video Chat Program </h1>
 
 ## Getting Started
 
